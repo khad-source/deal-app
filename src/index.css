@@ -1,0 +1,36 @@
+.font {
+    font-family: 'Noto Sans Arabic', sans-serif;
+
+    font-family: 'Cairo', sans-serif;
+    font-size: 30px;
+}
+ .colorbody{
+    background-color: white;
+    height: 100vh;
+ }
+
+.fontMenu{
+    font-size: x-large;
+    font-weight: bold;
+    line-height: 60px;
+    letter-spacing: 1px;
+ }
+  
+/*   ligne  =>border درتو صوليد باه ظهر
+ */ .underline{
+   
+    height: 1px;
+    width: 100px;
+    border: 2px solid #ac350e;
+    border-radius: 10px;
+ }
+
+.image{
+
+   width: 180px;
+   height: 180px;
+   margin-left: 8px;
+   margin-right: 2px;
+   border-radius: 5px;
+
+}
